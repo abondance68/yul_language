@@ -1,6 +1,8 @@
 # **yul_language**<br>
 **YUL is a low level language close to bare metal in contrary to Vyper or Solidity languages that are high level languages.**<br>
 
+**We create a smart contract that is just adding one number**
+
 
 **We create a build folder, a test folder and a script folder.**<br>
 
