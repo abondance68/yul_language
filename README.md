@@ -20,7 +20,10 @@ node scripts/deploy.js
 **To test the contract :**<br>
 ```
 node test/PureYul.test.js
-```
+```<br>
+
+
+##**The original smart contract coded in solidity is illustrated with solidity.svg.**##
 
 
 
